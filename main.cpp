@@ -206,5 +206,5 @@ int main() {
     int B;
     cin >> I1 >> I2 >> B;
     cout << add(I1, I2, B) << ' ' << multiply(I1, I2, B) << ' ' << divide(I1, I2, B) << endl;
-    return 0;
+    return 1;
 }
